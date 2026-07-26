@@ -4,7 +4,7 @@ Minimal fake payment gateway microservice for a Kubernetes + Prometheus +
 Grafana monitoring demo. Designed to run alongside a Java Spring Boot
 `order-service`.
 
-No database, auth, cache, queue, or external APIs — just simulated payment
+No database, auth, cache, queue, or external APIs. Just simulated payment
 processing with Prometheus metrics.
 
 ## Stack
